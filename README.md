@@ -20,9 +20,9 @@ Users can enter the name of a city, and the application will display the current
 2. Enter the name of a city in the input field and press the "Get Weather" button.
 3. The application will display the current weather conditions for the entered city, including wind speed, humidity, temperature, weather description, and pressure.
 
-Credits
+Credits: 
 Weather data provided by OpenWeatherMap
 GUI built using Tkinter
 
-Contact
+Contact:
 For any questions or feedback, please contact saranyakoya@email.com.
